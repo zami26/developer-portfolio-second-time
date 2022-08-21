@@ -1,7 +1,27 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    margin-left: 100px;
 }
 
-h1 {
-    color: royalblue;
+.colored {
+    color: #07d7e6;
+    font-size: 40px;
+}
+
+#first-div {
+    margin-top: 40px;
+    display: flex;
+}
+
+#first-btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 900;
+    background-color: #07d7e6;
+}
+
+#first-img {
+    width: 700px;
 }
