@@ -1,5 +1,7 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 h1 {
     color: royalblue;
-    font-size: 40px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
