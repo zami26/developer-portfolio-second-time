@@ -6,7 +6,7 @@ body {
 
 .colored {
     color: #07d7e6;
-    font-size: 40px;
+
 }
 
 #first-sec {
@@ -29,10 +29,9 @@ body {
     width: 700px;
 }
 
-#second-sec {
+.second-sec {
     display: flex;
     margin-bottom: 100px;
-    ;
 }
 
 
@@ -44,4 +43,13 @@ body {
 #mid-sec-div {
     margin-right: 120px;
     margin-left: 50px;
+}
+
+.last-div {
+    width: 40%;
+    margin-right: 120px;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid blue;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
 }
